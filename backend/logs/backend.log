@@ -1,0 +1,310 @@
+20.3.2022, 15:04:55 - INFO - Server is running on port: 3030
+20.3.2022, 15:04:59 - INFO - Server is running on port: 3030
+20.3.2022, 15:05:37 - INFO - Server is running on port: 3030
+20.3.2022, 15:09:26 - INFO - Server is running on port: 3030
+20.3.2022, 15:11:41 - INFO - Server is running on port: 3030
+20.3.2022, 15:12:04 - INFO - Server is running on port: 3030
+20.3.2022, 15:13:55 - INFO - Server is running on port: 3030
+20.3.2022, 15:15:20 - INFO - Server is running on port: 3030
+20.3.2022, 15:15:21 - INFO - Server is running on port: 3030
+20.3.2022, 15:23:55 - INFO - Server is running on port: 3030
+20.3.2022, 15:26:58 - INFO - Server is running on port: 3030
+20.3.2022, 15:30:17 - DEBUG - auth.service - login with username: Omer
+20.3.2022, 15:45:53 - DEBUG - auth.service - login with username: Omer
+20.3.2022, 15:52:59 - DEBUG - auth.service - login with username: nissim
+20.3.2022, 15:53:04 - WARN - nissim avocado Attempt to perform admin action
+20.3.2022, 17:03:09 - INFO - Server is running on port: 3030
+20.3.2022, 17:07:16 - DEBUG - auth.service - login with username: Omer
+20.3.2022, 17:34:12 - INFO - Server is running on port: 3030
+20.3.2022, 21:08:08 - ERROR - while finding toy undefined | {}
+20.3.2022, 21:08:08 - ERROR - Failed to get toy | {}
+20.3.2022, 21:08:35 - ERROR - while finding toy undefined | {}
+20.3.2022, 21:08:35 - ERROR - Failed to get toy | {}
+20.3.2022, 21:08:52 - ERROR - while finding toy undefined | {}
+20.3.2022, 21:08:52 - ERROR - Failed to get toy | {}
+20.3.2022, 21:09:01 - ERROR - while finding toy undefined | {}
+20.3.2022, 21:09:01 - ERROR - Failed to get toy | {}
+20.3.2022, 21:09:20 - INFO - Server is running on port: 3030
+20.3.2022, 21:09:22 - ERROR - while finding toy undefined | {}
+20.3.2022, 21:09:22 - ERROR - Failed to get toy | {}
+20.3.2022, 21:09:56 - ERROR - while finding toy undefined | {}
+20.3.2022, 21:09:56 - ERROR - Failed to get toy | {}
+20.3.2022, 21:10:19 - ERROR - while finding toy undefined | {}
+20.3.2022, 21:10:19 - ERROR - Failed to get toy | {}
+20.3.2022, 21:10:23 - INFO - Server is running on port: 3030
+20.3.2022, 21:10:24 - ERROR - while finding toy undefined | {}
+20.3.2022, 21:10:24 - ERROR - Failed to get toy | {}
+20.3.2022, 21:11:02 - INFO - Server is running on port: 3030
+20.3.2022, 21:12:00 - ERROR - while finding toy undefined | {}
+20.3.2022, 21:12:00 - ERROR - Failed to get toy | {}
+20.3.2022, 21:13:03 - INFO - Req!!!
+20.3.2022, 21:13:12 - INFO - Req!!!
+20.3.2022, 21:13:28 - INFO - Req!!!
+20.3.2022, 21:13:36 - INFO - Req!!!
+20.3.2022, 21:13:40 - INFO - Req!!!
+20.3.2022, 21:14:10 - INFO - Req!!!
+20.3.2022, 21:15:18 - INFO - Server is running on port: 3030
+20.3.2022, 21:15:53 - INFO - Req!!!
+20.3.2022, 21:15:53 - ERROR - Cannot get reviews | {}
+20.3.2022, 21:16:33 - INFO - Server is running on port: 3030
+20.3.2022, 21:16:37 - INFO - Req!!!
+20.3.2022, 21:17:10 - INFO - Server is running on port: 3030
+20.3.2022, 21:17:13 - INFO - Req!!!
+20.3.2022, 21:17:13 - ERROR - Cannot get reviews | {}
+20.3.2022, 21:17:17 - INFO - Server is running on port: 3030
+20.3.2022, 21:17:35 - INFO - Server is running on port: 3030
+20.3.2022, 21:17:38 - INFO - Req!!!
+20.3.2022, 21:17:38 - ERROR - Cannot get reviews | {}
+20.3.2022, 21:17:44 - INFO - Req!!!
+20.3.2022, 21:17:44 - ERROR - Cannot get reviews | {}
+20.3.2022, 21:19:41 - INFO - Server is running on port: 3030
+20.3.2022, 21:19:44 - INFO - Req!!!
+20.3.2022, 21:19:49 - INFO - Req!!!
+20.3.2022, 21:20:35 - INFO - Req!!!
+20.3.2022, 21:23:52 - INFO - Server is running on port: 3030
+20.3.2022, 21:23:53 - INFO - Req!!!
+20.3.2022, 21:23:58 - INFO - Server is running on port: 3030
+20.3.2022, 21:24:00 - INFO - Req!!!
+20.3.2022, 21:24:05 - INFO - Server is running on port: 3030
+20.3.2022, 21:25:34 - INFO - Server is running on port: 3030
+20.3.2022, 21:25:37 - INFO - Req!!!
+20.3.2022, 21:25:39 - INFO - Req!!!
+20.3.2022, 21:25:42 - INFO - Req!!!
+20.3.2022, 21:25:48 - INFO - Server is running on port: 3030
+20.3.2022, 21:26:06 - INFO - Server is running on port: 3030
+20.3.2022, 21:26:24 - INFO - Server is running on port: 3030
+20.3.2022, 21:26:27 - INFO - Req!!!
+20.3.2022, 21:26:46 - INFO - Server is running on port: 3030
+20.3.2022, 21:26:47 - INFO - Req!!!
+20.3.2022, 21:27:43 - INFO - Server is running on port: 3030
+20.3.2022, 21:27:44 - INFO - Req!!!
+20.3.2022, 21:28:26 - INFO - Server is running on port: 3030
+20.3.2022, 21:28:28 - INFO - Req!!!
+20.3.2022, 21:28:30 - INFO - Server is running on port: 3030
+20.3.2022, 21:28:32 - INFO - Req!!!
+20.3.2022, 21:28:50 - INFO - Req!!!
+20.3.2022, 21:28:53 - INFO - Req!!!
+20.3.2022, 21:30:33 - INFO - Server is running on port: 3030
+20.3.2022, 21:30:35 - INFO - Req!!!
+20.3.2022, 21:30:35 - ERROR - Cannot get reviews | {}
+20.3.2022, 21:30:37 - INFO - Req!!!
+20.3.2022, 21:30:37 - ERROR - Cannot get reviews | {}
+20.3.2022, 21:30:50 - INFO - Req!!!
+20.3.2022, 21:30:50 - ERROR - Cannot get reviews | {}
+20.3.2022, 21:30:52 - INFO - Req!!!
+20.3.2022, 21:30:52 - ERROR - Cannot get reviews | {}
+20.3.2022, 21:31:02 - INFO - Server is running on port: 3030
+20.3.2022, 21:31:04 - INFO - Req!!!
+20.3.2022, 21:31:04 - ERROR - Cannot get reviews | {}
+20.3.2022, 21:31:11 - INFO - Server is running on port: 3030
+20.3.2022, 21:31:12 - INFO - Req!!!
+20.3.2022, 21:31:12 - ERROR - Cannot get reviews | {}
+20.3.2022, 21:31:23 - INFO - Server is running on port: 3030
+20.3.2022, 21:31:24 - INFO - Req!!!
+20.3.2022, 21:31:30 - INFO - Server is running on port: 3030
+20.3.2022, 21:31:31 - INFO - Req!!!
+20.3.2022, 21:31:36 - INFO - Req!!!
+20.3.2022, 21:31:38 - INFO - Req!!!
+20.3.2022, 21:31:46 - INFO - Server is running on port: 3030
+20.3.2022, 21:31:49 - INFO - Req!!!
+20.3.2022, 21:32:08 - INFO - Req!!!
+20.3.2022, 21:32:10 - INFO - Req!!!
+20.3.2022, 21:45:30 - INFO - Server is running on port: 3030
+20.3.2022, 21:45:43 - INFO - Server is running on port: 3030
+20.3.2022, 21:46:00 - INFO - Req!!!
+20.3.2022, 21:46:06 - INFO - Server is running on port: 3030
+20.3.2022, 21:46:07 - INFO - Req!!!
+20.3.2022, 21:46:16 - INFO - Req!!!
+20.3.2022, 21:48:10 - INFO - Server is running on port: 3030
+20.3.2022, 21:48:10 - INFO - Req!!!
+20.3.2022, 21:48:45 - INFO - Req!!!
+20.3.2022, 21:49:00 - INFO - Req!!!
+20.3.2022, 21:49:16 - INFO - Req!!!
+20.3.2022, 21:49:20 - INFO - Req!!!
+20.3.2022, 21:49:22 - INFO - Req!!!
+20.3.2022, 21:49:28 - INFO - Req!!!
+20.3.2022, 21:52:06 - INFO - Server is running on port: 3030
+20.3.2022, 21:52:07 - INFO - Req!!!
+20.3.2022, 21:52:16 - INFO - Req!!!
+20.3.2022, 21:52:20 - INFO - Req!!!
+20.3.2022, 21:55:00 - INFO - Req!!!
+20.3.2022, 21:55:08 - INFO - Req!!!
+20.3.2022, 21:55:13 - INFO - Req!!!
+20.3.2022, 21:55:31 - INFO - Req!!!
+20.3.2022, 21:55:33 - INFO - Req!!!
+20.3.2022, 21:56:09 - INFO - Req!!!
+20.3.2022, 21:56:53 - INFO - Server is running on port: 3030
+20.3.2022, 21:56:56 - INFO - Req!!!
+20.3.2022, 21:56:58 - INFO - Req!!!
+20.3.2022, 21:57:33 - INFO - Server is running on port: 3030
+20.3.2022, 21:57:40 - INFO - Req!!!
+20.3.2022, 21:57:41 - INFO - Req!!!
+20.3.2022, 21:57:41 - ERROR - Failed to add review | {}
+20.3.2022, 21:58:38 - INFO - Server is running on port: 3030
+20.3.2022, 21:58:40 - INFO - Req!!!
+20.3.2022, 21:58:41 - INFO - Req!!!
+20.3.2022, 21:58:41 - ERROR - Failed to add review | {}
+20.3.2022, 21:59:05 - INFO - Server is running on port: 3030
+20.3.2022, 21:59:16 - DEBUG - auth.service - login with username: Omer
+20.3.2022, 21:59:28 - INFO - Req!!!
+20.3.2022, 21:59:28 - INFO - Req from: Omer Eshkoli
+20.3.2022, 21:59:30 - INFO - Req!!!
+20.3.2022, 21:59:30 - INFO - Req from: Omer Eshkoli
+20.3.2022, 21:59:30 - ERROR - Failed to add review | {}
+20.3.2022, 21:59:47 - INFO - Server is running on port: 3030
+20.3.2022, 21:59:49 - INFO - Req!!!
+20.3.2022, 21:59:51 - INFO - Req!!!
+20.3.2022, 21:59:51 - ERROR - Failed to add review | {}
+20.3.2022, 22:00:13 - INFO - Server is running on port: 3030
+20.3.2022, 22:00:23 - DEBUG - auth.service - login with username: Omer
+20.3.2022, 22:00:26 - INFO - Req!!!
+20.3.2022, 22:00:26 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:00:27 - INFO - Req!!!
+20.3.2022, 22:00:27 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:00:37 - INFO - Req!!!
+20.3.2022, 22:00:37 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:01:20 - INFO - Req!!!
+20.3.2022, 22:01:20 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:01:23 - INFO - Req!!!
+20.3.2022, 22:01:23 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:01:46 - INFO - Server is running on port: 3030
+20.3.2022, 22:02:20 - INFO - Server is running on port: 3030
+20.3.2022, 22:02:21 - INFO - Req!!!
+20.3.2022, 22:02:25 - INFO - Req!!!
+20.3.2022, 22:02:25 - ERROR - Failed to add review | {}
+20.3.2022, 22:02:41 - INFO - Server is running on port: 3030
+20.3.2022, 22:02:44 - DEBUG - auth.service - login with username: Omer
+20.3.2022, 22:02:47 - INFO - Req!!!
+20.3.2022, 22:02:47 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:02:51 - INFO - Req!!!
+20.3.2022, 22:02:51 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:02:53 - INFO - Req!!!
+20.3.2022, 22:02:53 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:03:12 - INFO - Req!!!
+20.3.2022, 22:03:12 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:03:35 - INFO - Req!!!
+20.3.2022, 22:03:35 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:03:41 - INFO - Req!!!
+20.3.2022, 22:03:41 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:03:42 - INFO - Req!!!
+20.3.2022, 22:03:42 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:03:46 - INFO - Req!!!
+20.3.2022, 22:03:46 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:04:20 - INFO - Req!!!
+20.3.2022, 22:04:20 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:05:10 - INFO - Server is running on port: 3030
+20.3.2022, 22:05:12 - INFO - Req!!!
+20.3.2022, 22:05:17 - INFO - Req!!!
+20.3.2022, 22:05:25 - INFO - Server is running on port: 3030
+20.3.2022, 22:05:27 - INFO - Req!!!
+20.3.2022, 22:08:13 - INFO - Req!!!
+20.3.2022, 22:08:15 - INFO - Req!!!
+20.3.2022, 22:08:15 - ERROR - Failed to add review | {}
+20.3.2022, 22:08:30 - DEBUG - auth.service - login with username: Omer
+20.3.2022, 22:08:34 - INFO - Req!!!
+20.3.2022, 22:08:34 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:08:37 - INFO - Req!!!
+20.3.2022, 22:08:37 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:09:08 - INFO - Req!!!
+20.3.2022, 22:09:08 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:09:12 - INFO - Req!!!
+20.3.2022, 22:09:12 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:09:24 - INFO - Req!!!
+20.3.2022, 22:09:24 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:09:26 - INFO - Req!!!
+20.3.2022, 22:09:26 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:09:40 - INFO - Req!!!
+20.3.2022, 22:09:40 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:09:42 - INFO - Req!!!
+20.3.2022, 22:09:42 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:10:32 - INFO - Req!!!
+20.3.2022, 22:10:32 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:10:56 - INFO - Server is running on port: 3030
+20.3.2022, 22:10:58 - INFO - Req!!!
+20.3.2022, 22:11:24 - INFO - Server is running on port: 3030
+20.3.2022, 22:11:26 - INFO - Server is running on port: 3030
+20.3.2022, 22:11:27 - INFO - Req!!!
+20.3.2022, 22:11:35 - INFO - Server is running on port: 3030
+20.3.2022, 22:11:40 - INFO - Server is running on port: 3030
+20.3.2022, 22:11:44 - INFO - Req!!!
+20.3.2022, 22:11:59 - INFO - Server is running on port: 3030
+20.3.2022, 22:12:01 - INFO - Req!!!
+20.3.2022, 22:12:21 - INFO - Server is running on port: 3030
+20.3.2022, 22:12:25 - INFO - Req!!!
+20.3.2022, 22:12:56 - INFO - Server is running on port: 3030
+20.3.2022, 22:12:58 - INFO - Req!!!
+20.3.2022, 22:12:58 - ERROR - Cannot get reviews | {}
+20.3.2022, 22:13:56 - INFO - Server is running on port: 3030
+20.3.2022, 22:13:58 - INFO - Req!!!
+20.3.2022, 22:15:21 - INFO - Req!!!
+20.3.2022, 22:15:57 - INFO - Server is running on port: 3030
+20.3.2022, 22:15:58 - INFO - Req!!!
+20.3.2022, 22:34:14 - INFO - Req!!!
+20.3.2022, 22:34:42 - INFO - Server is running on port: 3030
+20.3.2022, 22:34:44 - INFO - Req!!!
+20.3.2022, 22:35:08 - INFO - Server is running on port: 3030
+20.3.2022, 22:35:09 - INFO - Req!!!
+20.3.2022, 22:36:22 - INFO - Server is running on port: 3030
+20.3.2022, 22:36:23 - INFO - Req!!!
+20.3.2022, 22:36:28 - INFO - Server is running on port: 3030
+20.3.2022, 22:36:29 - INFO - Req!!!
+20.3.2022, 22:36:33 - INFO - Req!!!
+20.3.2022, 22:36:37 - INFO - Req!!!
+20.3.2022, 22:36:43 - INFO - Server is running on port: 3030
+20.3.2022, 22:36:45 - INFO - Req!!!
+20.3.2022, 22:37:49 - INFO - Req!!!
+20.3.2022, 22:39:38 - INFO - Server is running on port: 3030
+20.3.2022, 22:39:39 - INFO - Req!!!
+20.3.2022, 22:39:54 - INFO - Server is running on port: 3030
+20.3.2022, 22:39:55 - INFO - Req!!!
+20.3.2022, 22:40:04 - INFO - Server is running on port: 3030
+20.3.2022, 22:40:07 - INFO - Req!!!
+20.3.2022, 22:40:24 - INFO - Req!!!
+20.3.2022, 22:40:24 - ERROR - Failed to add review | {}
+20.3.2022, 22:40:29 - INFO - Req!!!
+20.3.2022, 22:40:35 - INFO - Server is running on port: 3030
+20.3.2022, 22:41:46 - INFO - Server is running on port: 3030
+20.3.2022, 22:41:47 - INFO - Req!!!
+20.3.2022, 22:41:49 - INFO - Req!!!
+20.3.2022, 22:41:49 - ERROR - Failed to add review | {}
+20.3.2022, 22:41:50 - INFO - Req!!!
+20.3.2022, 22:42:33 - INFO - Server is running on port: 3030
+20.3.2022, 22:42:35 - INFO - Req!!!
+20.3.2022, 22:42:42 - INFO - Req!!!
+20.3.2022, 22:42:45 - INFO - Req!!!
+20.3.2022, 22:42:55 - INFO - Req!!!
+20.3.2022, 22:42:56 - INFO - Req!!!
+20.3.2022, 22:42:57 - ERROR - Failed to add review | {}
+20.3.2022, 22:43:12 - DEBUG - auth.service - login with username: Omer
+20.3.2022, 22:43:13 - INFO - Req!!!
+20.3.2022, 22:43:13 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:43:15 - INFO - Req!!!
+20.3.2022, 22:43:15 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:43:16 - INFO - Req!!!
+20.3.2022, 22:43:16 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:43:17 - INFO - Req!!!
+20.3.2022, 22:43:17 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:43:17 - INFO - Req!!!
+20.3.2022, 22:43:17 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:43:21 - INFO - Req!!!
+20.3.2022, 22:43:21 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:43:24 - INFO - Req!!!
+20.3.2022, 22:43:24 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:43:26 - INFO - Req!!!
+20.3.2022, 22:43:26 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:43:28 - INFO - Req!!!
+20.3.2022, 22:43:28 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:43:36 - INFO - Req!!!
+20.3.2022, 22:43:36 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:43:38 - INFO - Req!!!
+20.3.2022, 22:43:38 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:43:39 - INFO - Req!!!
+20.3.2022, 22:43:39 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:43:41 - INFO - Req!!!
+20.3.2022, 22:43:41 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:43:44 - INFO - Req!!!
+20.3.2022, 22:43:44 - INFO - Req from: Omer Eshkoli
+20.3.2022, 22:44:21 - INFO - Server is running on port: 3030
+20.3.2022, 22:44:29 - INFO - Server is running on port: 3030
+20.3.2022, 22:44:33 - INFO - Server is running on port: 3030
+20.3.2022, 23:08:55 - INFO - Server is running on port: 3030
