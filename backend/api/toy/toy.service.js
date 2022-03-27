@@ -38,7 +38,6 @@ async function remove(toyId) {
 }
 
 async function add(toy) {
-    console.log('added');
     try {
         const collection = await dbService.getCollection('toy')
         const {ops} = await collection.insertOne(toy)

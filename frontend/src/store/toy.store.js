@@ -1,11 +1,12 @@
 import { toyService } from '../services/toy.service.js';
-
+import { socketService } from '../services/socket.service.js'
 export default {
   state: {
     toys: null,
     labels: ["On wheels", "Box game", "Art", "Baby", "Doll", "Puzzle", "Outdoor"],
     filterBy: null,
     isLoading: false,
+    // msgs: []
   },
   getters: {
     getToys(state) {
@@ -43,9 +44,9 @@ export default {
       commit({ type: 'setIsLoading', isLoading: true })
       try {
         var toys = await toyService.query(state.filterBy)
-        commit({ type: 'setToys', toys });
+        commit({ type: 'setToys', toys })
       }
-      catch(err) {
+      catch (err) {
         console.error('Cannot Load toys', err);
         throw err;
       }
@@ -58,18 +59,20 @@ export default {
         var id = await toyService.remove(id)
         commit({ type: 'removeToy', id });
       }
-      catch(err) {
+      catch (err) {
         console.error('Cannot remove toy', err);
         throw err;
       }
-        
+
     },
     async saveToy({ commit }, { toy }) {
       try {
+        const msgTxt = toy._id ? 'Toy updated' : 'Toy added'
         var toy = await toyService.save(toy)
-          commit({ type: 'saveToy', toy })
-        }
-      catch(err) {
+        socketService.emit('msg watched users', msgTxt)
+        commit({ type: 'saveToy', toy })
+      }
+      catch (err) {
         console.error('Cannot Edit/Add toy', err);
         throw err;
       }

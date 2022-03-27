@@ -1,38 +1,4 @@
 .toy-app {
-
-  
-  .chat-widget {
-    position: fixed;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    right: 10px;
-    bottom: 30px;
-    background-color: $red;
-    color: white;
-    padding: 20px;
-    width: 110px;
-    height: 50px;
-    cursor: pointer;
-    border-radius: 10px;
-    transition: background-color 0.3s ease-in,
-    color 0.3s ease-in;
-    
-    &:hover {
-        background-color: $yellow;
-        color: $red;
-    }
-  }
-
-  .chat {
-    position: fixed;
-    right: 10px;
-    bottom: 85px;
-    background-color: $red;
-    color: white;
-    padding: 20px;
-  }
-
   .add-toy {
       >* {
         color: white;
@@ -42,7 +8,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    left: 10px;
+    right: 10px;
     bottom: 30px;
     width: 110px;
     height: 50px;

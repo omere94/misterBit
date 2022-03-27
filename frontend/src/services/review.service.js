@@ -6,9 +6,8 @@ export const reviewService = {
   // remove
 }
 
-function query(toyId) {
-  console.log(toyId)
-  return httpService.get('review', toyId)
+function query(filterBy) {
+  return httpService.get('review', filterBy)
 }
 
 // function remove(reviewId) {

@@ -2,48 +2,40 @@ const dbService = require('../../services/db.service')
 const ObjectId = require('mongodb').ObjectId
 const asyncLocalStorage = require('../../services/als.service')
 
-async function query(toyId) {
-    console.log('toyId', toyId)
-    try {
-        const criteria = _buildCriteria(toyId)
-        const collection = await dbService.getCollection('review')
-        const reviews = await collection.find(criteria).toArray()
-        // var reviews = await collection.aggregate([
-        //     {
-        //         $match: criteria
-        //     },
-        //     {
-        //         $lookup:
-        //         {
-        //             localField: 'byUserId',
-        //             from: 'user',
-        //             foreignField: '_id',
-        //             as: 'byUser'
-        //         }
-        //     },
-        //     {
-        //         $unwind: '$byUser'
-        //     },
-        //     {
-        //         $lookup:
-        //         {
-        //             localField: 'aboutUserId',
-        //             from: 'user',
-        //             foreignField: '_id',
-        //             as: 'aboutUser'
-        //         }
-        //     },
-        //     {
-        //         $unwind: '$aboutUser'
-        //     }
-        // ]).toArray()
-        // reviews = reviews.map(review => {
-        //     review.byUser = { _id: review.byUser._id, fullname: review.byUser.fullname }
-        //     review.aboutUser = { _id: review.aboutUser._id, fullname: review.aboutUser.fullname }
-        //     delete review.byUserId
-        //     delete review.aboutUserId
-        //     return review
-        // })
+async function query(filterBy = {}) {
+    try {        const collection = await dbService.getCollection('review')
+        const reviews = await collection
+        .aggregate([
+            { $match: _buildCriteria(filterBy) },
+            {
+              $lookup: {
+                from: 'user',
+                foreignField: '_id',
+                localField: 'userId',
+                as: 'user',
+              },
+            },
+            { $unwind: '$user' }, // [{.....}] ==> {.....}
+            {
+              $lookup: {
+                from: 'toy',
+                foreignField: '_id',
+                localField: 'toyId',
+                as: 'toy',
+              },
+            },
+            { $unwind: '$toy' }, // [{.....}] ==> {.....}
+            {
+              $project: {
+                _id: 1,
+                content: 1,
+                rate: 1,
+                user: { _id: 1, username: 1 },
+                toy: { _id: 1, name: 1, price: 1 },
+              },
+            },
+          ])
+          .toArray()
 
         return reviews
     } catch (err) {
@@ -72,9 +64,9 @@ async function remove(reviewId) {
 async function add(review) {
     try {
         const reviewToAdd = {
-            userId: review.userId,
-            toyId: review.toyId,
-            content: review.content
+            userId: ObjectId(review.userId),
+            toyId: ObjectId(review.toyId),
+            content: review.content,
         }
         const collection = await dbService.getCollection('review')
         await collection.insertOne(reviewToAdd)
@@ -85,10 +77,10 @@ async function add(review) {
     }
 }
 
-function _buildCriteria(toyId) {
-    const criteria = {}
-    criteria.toyId = toyId['0']
-    return criteria
+function _buildCriteria(filterBy) {
+
+  if (filterBy.toyId) return { toyId: ObjectId(filterBy.toyId) }
+  return {}
 }
 
 module.exports = {

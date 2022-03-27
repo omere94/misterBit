@@ -30,7 +30,7 @@ export default {
     name: 'Login Page',
     data() {
         return {
-            loginCred: {username: 'user1', password: '123'},
+            loginCred: {username: '', password: ''},
             signupCred: {username: '', password: '', fullname: ''},
         };
     },

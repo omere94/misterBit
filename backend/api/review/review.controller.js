@@ -3,7 +3,8 @@ const reviewService = require('./review.service')
 
 async function getReviews(req, res) {
     try {
-        const reviews = await reviewService.query(req.query)
+        const filterBy = req.query
+        const reviews = await reviewService.query(filterBy)
         res.send(reviews)
     } catch (err) {
         logger.error('Cannot get reviews', err)
@@ -25,18 +26,8 @@ async function deleteReview(req, res) {
 async function addReview(req, res) {
     try {
         var review = req.body
-        console.log(req.session)
         review.userId = req.session.user._id
         review = await reviewService.add(review)
-        
-        // prepare the updated review for sending out
-        // review.aboutUser = await userService.getById(review.aboutUserId)
-        
-        // console.log('CTRL SessionId:', req.sessionID);
-        // socketService.broadcast({type: 'review-added', data: review, userId: review.byUserId})
-        // socketService.emitToUser({type: 'review-about-you', data: review, userId: review.aboutUserId})
-        // socketService.emitTo({type: 'user-updated', data: fullUser, label: fullUser._id})
-
         res.send(review)
 
     } catch (err) {

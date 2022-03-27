@@ -173,7 +173,7 @@
 20.3.2022, 22:02:25 - INFO - Req!!!
 20.3.2022, 22:02:25 - ERROR - Failed to add review | {}
 20.3.2022, 22:02:41 - INFO - Server is running on port: 3030
-20.3.2022, 22:02:44 - DEBUG - auth.service - login with username: Omer
+20.3.2022, 22:02:44 - DEBUG - auth.service - login with username: Roy
 20.3.2022, 22:02:47 - INFO - Req!!!
 20.3.2022, 22:02:47 - INFO - Req from: Omer Eshkoli
 20.3.2022, 22:02:51 - INFO - Req!!!
@@ -200,7 +200,7 @@
 20.3.2022, 22:08:13 - INFO - Req!!!
 20.3.2022, 22:08:15 - INFO - Req!!!
 20.3.2022, 22:08:15 - ERROR - Failed to add review | {}
-20.3.2022, 22:08:30 - DEBUG - auth.service - login with username: Omer
+20.3.2022, 22:08:30 - DEBUG - auth.service - login with username: Roy
 20.3.2022, 22:08:34 - INFO - Req!!!
 20.3.2022, 22:08:34 - INFO - Req from: Omer Eshkoli
 20.3.2022, 22:08:37 - INFO - Req!!!
@@ -275,7 +275,7 @@
 20.3.2022, 22:42:55 - INFO - Req!!!
 20.3.2022, 22:42:56 - INFO - Req!!!
 20.3.2022, 22:42:57 - ERROR - Failed to add review | {}
-20.3.2022, 22:43:12 - DEBUG - auth.service - login with username: Omer
+20.3.2022, 22:43:12 - DEBUG - auth.service - login with username: Roy
 20.3.2022, 22:43:13 - INFO - Req!!!
 20.3.2022, 22:43:13 - INFO - Req from: Omer Eshkoli
 20.3.2022, 22:43:15 - INFO - Req!!!
@@ -308,3 +308,1043 @@
 20.3.2022, 22:44:29 - INFO - Server is running on port: 3030
 20.3.2022, 22:44:33 - INFO - Server is running on port: 3030
 20.3.2022, 23:08:55 - INFO - Server is running on port: 3030
+21.3.2022, 12:44:06 - INFO - Server is running on port: 3030
+21.3.2022, 12:51:10 - INFO - Server is running on port: 3030
+21.3.2022, 12:52:23 - INFO - Req!!!
+21.3.2022, 12:53:44 - INFO - Req!!!
+21.3.2022, 12:53:59 - INFO - Req!!!
+21.3.2022, 12:54:01 - INFO - Req!!!
+21.3.2022, 12:54:29 - INFO - Req!!!
+21.3.2022, 12:55:28 - INFO - Req!!!
+21.3.2022, 12:59:27 - INFO - Req!!!
+21.3.2022, 12:59:27 - INFO - Req!!!
+21.3.2022, 12:59:28 - INFO - Req!!!
+21.3.2022, 13:00:13 - INFO - Req!!!
+21.3.2022, 13:09:59 - INFO - Req!!!
+21.3.2022, 13:13:22 - INFO - Server is running on port: 3030
+21.3.2022, 13:15:11 - INFO - Req!!!
+21.3.2022, 13:15:11 - INFO - Req!!!
+21.3.2022, 13:15:20 - INFO - Req!!!
+21.3.2022, 13:15:54 - INFO - Req!!!
+21.3.2022, 13:15:54 - INFO - Req!!!
+21.3.2022, 13:15:56 - INFO - Req!!!
+21.3.2022, 13:15:58 - INFO - Req!!!
+21.3.2022, 13:16:03 - DEBUG - auth.service - login with username: Roy
+21.3.2022, 13:16:04 - INFO - Req!!!
+21.3.2022, 13:16:04 - INFO - Req from: Omer Eshkoli
+21.3.2022, 13:16:06 - INFO - Req!!!
+21.3.2022, 13:16:06 - INFO - Req from: Omer Eshkoli
+21.3.2022, 13:16:11 - INFO - Req!!!
+21.3.2022, 13:16:11 - INFO - Req from: Omer Eshkoli
+21.3.2022, 13:16:17 - INFO - Req!!!
+21.3.2022, 13:16:17 - INFO - Req from: Omer Eshkoli
+21.3.2022, 13:16:18 - INFO - Req!!!
+21.3.2022, 13:16:19 - INFO - Req!!!
+21.3.2022, 13:16:19 - INFO - Req from: Omer Eshkoli
+21.3.2022, 13:16:20 - INFO - Req!!!
+21.3.2022, 13:16:20 - INFO - Req from: Omer Eshkoli
+21.3.2022, 13:16:21 - INFO - Req!!!
+21.3.2022, 13:16:21 - INFO - Req from: Omer Eshkoli
+21.3.2022, 13:17:55 - INFO - Req!!!
+21.3.2022, 13:17:55 - INFO - Req from: Omer Eshkoli
+21.3.2022, 13:18:26 - INFO - Req!!!
+21.3.2022, 13:18:26 - INFO - Req from: Omer Eshkoli
+21.3.2022, 13:19:07 - INFO - Req!!!
+21.3.2022, 13:19:07 - INFO - Req from: Omer Eshkoli
+21.3.2022, 13:19:34 - INFO - Req!!!
+21.3.2022, 13:19:34 - INFO - Req from: Omer Eshkoli
+21.3.2022, 13:20:03 - INFO - Req!!!
+21.3.2022, 13:20:03 - INFO - Req from: Omer Eshkoli
+21.3.2022, 13:57:42 - INFO - Server is running on port: 3030
+21.3.2022, 13:58:34 - INFO - Req!!!
+21.3.2022, 13:58:40 - INFO - Req!!!
+21.3.2022, 14:08:55 - INFO - Req!!!
+21.3.2022, 14:08:55 - INFO - Req!!!
+21.3.2022, 14:09:03 - INFO - Req!!!
+21.3.2022, 14:09:03 - INFO - Req!!!
+21.3.2022, 14:25:01 - INFO - Req!!!
+21.3.2022, 14:25:01 - INFO - Req!!!
+21.3.2022, 14:44:14 - INFO - Server is running on port: 3030
+21.3.2022, 14:44:33 - INFO - Req!!!
+21.3.2022, 14:48:13 - INFO - Req!!!
+21.3.2022, 15:00:11 - INFO - Req!!!
+21.3.2022, 15:00:53 - INFO - Req!!!
+21.3.2022, 15:01:10 - INFO - Req!!!
+21.3.2022, 15:02:56 - INFO - Req!!!
+21.3.2022, 15:03:18 - INFO - Req!!!
+21.3.2022, 15:07:04 - INFO - Server is running on port: 3030
+21.3.2022, 15:07:39 - INFO - Req!!!
+21.3.2022, 15:08:04 - INFO - Req!!!
+21.3.2022, 15:08:40 - INFO - Server is running on port: 3030
+21.3.2022, 15:09:04 - INFO - Server is running on port: 3030
+21.3.2022, 15:09:43 - INFO - Req!!!
+21.3.2022, 15:09:56 - INFO - Req!!!
+21.3.2022, 15:15:18 - INFO - Req!!!
+21.3.2022, 15:15:55 - INFO - Req!!!
+21.3.2022, 15:16:10 - DEBUG - auth.service - login with username: nissim
+21.3.2022, 15:16:12 - INFO - Req!!!
+21.3.2022, 15:16:12 - INFO - Req from: nissim avocado
+21.3.2022, 15:16:25 - INFO - Req!!!
+21.3.2022, 15:16:25 - INFO - Req from: nissim avocado
+21.3.2022, 15:16:29 - INFO - Req!!!
+21.3.2022, 15:16:29 - INFO - Req from: nissim avocado
+21.3.2022, 15:16:35 - DEBUG - auth.service - login with username: Roy
+21.3.2022, 15:16:42 - INFO - Req!!!
+21.3.2022, 15:16:42 - INFO - Req from: Omer Eshkoli
+21.3.2022, 15:16:45 - INFO - Req!!!
+21.3.2022, 15:16:45 - INFO - Req from: Omer Eshkoli
+21.3.2022, 15:16:52 - INFO - Req!!!
+21.3.2022, 15:16:52 - INFO - Req from: Omer Eshkoli
+21.3.2022, 15:21:27 - INFO - Req!!!
+21.3.2022, 15:21:27 - INFO - Req from: Omer Eshkoli
+21.3.2022, 15:21:28 - INFO - Req!!!
+21.3.2022, 15:21:28 - INFO - Req from: Omer Eshkoli
+21.3.2022, 15:27:17 - INFO - Req!!!
+21.3.2022, 15:28:37 - INFO - Server is running on port: 3030
+21.3.2022, 15:35:00 - INFO - Server is running on port: 3030
+21.3.2022, 15:35:25 - INFO - Server is running on port: 3030
+21.3.2022, 15:36:31 - INFO - Req!!!
+21.3.2022, 15:36:36 - INFO - Req!!!
+21.3.2022, 15:38:08 - INFO - Server is running on port: 3030
+21.3.2022, 15:38:13 - INFO - Server is running on port: 3030
+21.3.2022, 15:38:18 - INFO - Server is running on port: 3030
+21.3.2022, 15:39:28 - INFO - Server is running on port: 3030
+21.3.2022, 15:39:40 - INFO - Server is running on port: 3030
+21.3.2022, 15:40:24 - INFO - Server is running on port: 3030
+21.3.2022, 15:40:46 - INFO - Server is running on port: 3030
+21.3.2022, 15:40:56 - INFO - Req!!!
+21.3.2022, 15:51:30 - DEBUG - auth.service - login with username: Roy
+21.3.2022, 15:58:28 - INFO - Server is running on port: 3030
+21.3.2022, 15:58:31 - INFO - Server is running on port: 3030
+21.3.2022, 15:58:41 - INFO - Server is running on port: 3030
+21.3.2022, 15:58:51 - INFO - Server is running on port: 3030
+21.3.2022, 15:58:56 - INFO - Server is running on port: 3030
+21.3.2022, 15:59:19 - INFO - Req!!!
+21.3.2022, 15:59:19 - INFO - Req!!!
+21.3.2022, 15:59:25 - INFO - Req!!!
+21.3.2022, 15:59:26 - INFO - Req!!!
+21.3.2022, 15:59:37 - INFO - Req!!!
+21.3.2022, 15:59:37 - INFO - Req!!!
+21.3.2022, 16:21:27 - INFO - Server is running on port: 3030
+21.3.2022, 16:25:29 - INFO - Server is running on port: 3030
+21.3.2022, 16:26:21 - INFO - Req!!!
+21.3.2022, 16:26:23 - INFO - Req!!!
+21.3.2022, 16:26:49 - INFO - Req!!!
+21.3.2022, 16:26:51 - INFO - Req!!!
+21.3.2022, 16:27:07 - INFO - Req!!!
+21.3.2022, 16:27:09 - INFO - Req!!!
+21.3.2022, 16:31:38 - INFO - Server is running on port: 3030
+21.3.2022, 16:32:52 - INFO - Req!!!
+21.3.2022, 16:32:53 - INFO - Req!!!
+21.3.2022, 16:34:27 - INFO - Req!!!
+21.3.2022, 16:34:28 - INFO - Req!!!
+21.3.2022, 16:35:20 - INFO - Req!!!
+21.3.2022, 16:36:19 - INFO - Req!!!
+21.3.2022, 16:36:59 - INFO - Req!!!
+21.3.2022, 16:37:00 - INFO - Req!!!
+21.3.2022, 16:37:38 - INFO - Req!!!
+21.3.2022, 16:37:47 - INFO - Req!!!
+21.3.2022, 16:37:48 - INFO - Req!!!
+21.3.2022, 16:44:39 - INFO - Server is running on port: 3030
+21.3.2022, 16:49:47 - INFO - Req!!!
+21.3.2022, 16:49:48 - INFO - Req!!!
+21.3.2022, 16:49:53 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:54 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:54 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:54 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:54 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:54 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:56 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:56 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:57 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:57 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:57 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:57 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:57 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:57 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:57 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:57 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:57 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:57 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:58 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:58 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:58 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:58 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:58 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:49:58 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:32 - INFO - Server is running on port: 3030
+21.3.2022, 16:50:37 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:37 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:37 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:37 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:38 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:38 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:38 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:38 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:38 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:38 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:38 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:38 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:38 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:38 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:38 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:38 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:38 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:50:38 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:51:16 - INFO - Server is running on port: 3030
+21.3.2022, 16:52:02 - INFO - Req!!!
+21.3.2022, 16:52:05 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:52:05 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:52:05 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:52:05 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:52:05 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:52:05 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:52:05 - DEBUG - broadcast to all but user:  | 
+21.3.2022, 16:52:52 - INFO - Server is running on port: 3030
+21.3.2022, 16:53:05 - INFO - Server is running on port: 3030
+21.3.2022, 16:53:54 - INFO - Server is running on port: 3030
+21.3.2022, 16:54:12 - INFO - Req!!!
+21.3.2022, 16:55:20 - INFO - Server is running on port: 3030
+21.3.2022, 16:55:24 - DEBUG - broadcast to all but user:  | SweyzqdFGx4X4-B2AAAG
+21.3.2022, 16:55:24 - DEBUG - broadcast to all but user:  | SweyzqdFGx4X4-B2AAAG
+21.3.2022, 16:55:24 - DEBUG - broadcast to all but user:  | SweyzqdFGx4X4-B2AAAG
+21.3.2022, 16:55:24 - DEBUG - broadcast to all but user:  | SweyzqdFGx4X4-B2AAAG
+21.3.2022, 16:55:24 - DEBUG - broadcast to all but user:  | SweyzqdFGx4X4-B2AAAG
+21.3.2022, 16:55:24 - DEBUG - broadcast to all but user:  | SweyzqdFGx4X4-B2AAAG
+21.3.2022, 16:55:24 - DEBUG - broadcast to all but user:  | SweyzqdFGx4X4-B2AAAG
+21.3.2022, 16:55:24 - DEBUG - broadcast to all but user:  | SweyzqdFGx4X4-B2AAAG
+21.3.2022, 16:55:30 - INFO - Server is running on port: 3030
+21.3.2022, 16:55:34 - INFO - Req!!!
+21.3.2022, 16:55:38 - INFO - Req!!!
+21.3.2022, 16:55:43 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:43 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:44 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:45 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:46 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:46 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:46 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:48 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:48 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:48 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:48 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:48 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:48 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:48 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:49 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:49 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:49 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:49 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:49 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:49 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:49 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:49 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:49 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:49 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:50 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:50 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:50 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:51 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:51 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:51 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:51 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:51 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:51 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:51 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:51 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:51 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:52 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:52 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:52 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:52 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:52 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:52 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:52 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:52 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:52 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:53 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:53 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:53 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:58 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:58 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:58 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:58 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:58 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:58 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:59 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:59 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 16:55:59 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:02:51 - INFO - Req!!!
+21.3.2022, 17:02:56 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:02:57 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:02:57 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:02:57 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:02:57 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:02:57 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:02:58 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:02:58 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:02:58 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:02:58 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:00 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:00 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:00 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:00 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:00 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:00 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:00 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:00 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:00 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:00 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:01 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:01 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:01 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:01 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:01 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:01 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:01 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:02 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:02 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:02 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:02 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:02 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:03 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:03 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:05 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:07 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:07 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:07 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:07 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:07 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:08 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:08 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:08 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:08 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:08 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:08 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:08 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:08 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:08 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:08 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:08 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:08 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:08 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:09 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:09 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:09 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:10 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:10 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:10 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:10 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:11 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:11 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:11 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:11 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:11 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:12 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:12 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:13 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:13 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:13 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:13 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:18 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:18 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:18 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:18 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:18 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:18 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:18 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:18 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:18 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:18 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:18 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:18 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:18 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:18 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:19 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:19 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:19 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:19 - DEBUG - broadcast to all but user:  | 2_Azy_LXHte9kH1zAAAJ
+21.3.2022, 17:03:32 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:32 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:32 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:32 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:32 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:32 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:33 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:33 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:33 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:33 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:33 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:33 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:33 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:33 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:33 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:34 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:34 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:34 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:34 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:35 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:35 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:35 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:35 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:35 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:36 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:36 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:36 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:37 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:37 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:37 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:38 - DEBUG - broadcast to all but user:  | 20ewJFgzYNP6jE_xAAAN
+21.3.2022, 17:03:51 - INFO - Req!!!
+21.3.2022, 17:03:51 - INFO - Req!!!
+21.3.2022, 17:03:54 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:03:54 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:03:54 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:03:56 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:03:56 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:03:56 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:03:57 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:03:57 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:03:57 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:03:57 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:03:58 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:03:58 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:03:58 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:04:00 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:04:00 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:04:00 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:04:00 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:04:00 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:04:01 - DEBUG - broadcast to all but user:  | PoZeyU3XOyN0kNXSAAAV
+21.3.2022, 17:04:30 - INFO - Req!!!
+21.3.2022, 17:04:31 - INFO - Req!!!
+21.3.2022, 17:04:34 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:34 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:34 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:34 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:34 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:34 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:36 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:36 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:36 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:36 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:36 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:37 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:37 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:37 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:37 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:38 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:38 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:38 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:40 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:40 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:40 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:40 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:40 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:40 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:40 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:40 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:40 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:43 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:43 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:43 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:43 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:43 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:45 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:47 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:47 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:47 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:47 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:47 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:04:47 - DEBUG - broadcast to all but user:  | TUT_Fi0Q2N75M3-TAAAb
+21.3.2022, 17:05:16 - DEBUG - broadcast to all but user:  | i0eE8O43K5TXnBwMAAAh
+21.3.2022, 17:05:17 - DEBUG - broadcast to all but user:  | i0eE8O43K5TXnBwMAAAh
+21.3.2022, 17:05:17 - DEBUG - broadcast to all but user:  | i0eE8O43K5TXnBwMAAAh
+21.3.2022, 17:05:17 - DEBUG - broadcast to all but user:  | i0eE8O43K5TXnBwMAAAh
+21.3.2022, 17:05:17 - DEBUG - broadcast to all but user:  | i0eE8O43K5TXnBwMAAAh
+21.3.2022, 17:05:18 - DEBUG - broadcast to all but user:  | i0eE8O43K5TXnBwMAAAh
+21.3.2022, 17:05:18 - DEBUG - broadcast to all but user:  | i0eE8O43K5TXnBwMAAAh
+21.3.2022, 17:05:18 - DEBUG - broadcast to all but user:  | i0eE8O43K5TXnBwMAAAh
+21.3.2022, 17:05:18 - DEBUG - broadcast to all but user:  | i0eE8O43K5TXnBwMAAAh
+21.3.2022, 17:05:18 - DEBUG - broadcast to all but user:  | i0eE8O43K5TXnBwMAAAh
+21.3.2022, 17:05:19 - INFO - Req!!!
+21.3.2022, 17:05:20 - INFO - Req!!!
+21.3.2022, 17:05:22 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:22 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:22 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:22 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:23 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:23 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:23 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:23 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:23 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:25 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:25 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:25 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:25 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:25 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:25 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:25 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:26 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:26 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:28 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:28 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:28 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:28 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:28 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:28 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:28 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:28 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:28 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:28 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:28 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:29 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:30 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:30 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:30 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:30 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:30 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:30 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:31 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:31 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:31 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:31 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:31 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:31 - DEBUG - broadcast to all but user:  | vovTpxLc93rNDALOAAAj
+21.3.2022, 17:05:35 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:35 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:35 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:35 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:35 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:35 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:35 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:05:35 - DEBUG - broadcast to all but user:  | xNBBIambAo0tHnjMAAAl
+21.3.2022, 17:15:35 - INFO - Server is running on port: 3030
+21.3.2022, 17:16:01 - DEBUG - auth.service - login with username: Roy
+21.3.2022, 18:14:55 - INFO - Req!!!
+21.3.2022, 18:14:55 - INFO - Req!!!
+21.3.2022, 18:44:22 - INFO - Server is running on port: 3030
+21.3.2022, 18:50:21 - INFO - Server is running on port: 3030
+21.3.2022, 18:50:40 - INFO - Server is running on port: 3030
+21.3.2022, 18:54:07 - INFO - Server is running on port: 3030
+21.3.2022, 18:59:20 - INFO - Req!!!
+21.3.2022, 19:01:05 - INFO - Req!!!
+21.3.2022, 19:01:15 - INFO - Req!!!
+21.3.2022, 19:02:19 - INFO - Req!!!
+21.3.2022, 19:05:26 - INFO - Server is running on port: 3030
+21.3.2022, 19:07:01 - INFO - Server is running on port: 3030
+21.3.2022, 19:07:06 - INFO - Server is running on port: 3030
+21.3.2022, 19:07:32 - INFO - Server is running on port: 3030
+21.3.2022, 19:07:51 - INFO - Server is running on port: 3030
+21.3.2022, 19:07:59 - INFO - Req!!!
+21.3.2022, 19:08:06 - INFO - Req!!!
+21.3.2022, 19:08:37 - DEBUG - auth.service - login with username: Roy
+21.3.2022, 19:09:43 - INFO - Req!!!
+21.3.2022, 19:09:43 - INFO - Req from: Omer Eshkoli
+21.3.2022, 19:09:49 - INFO - Req!!!
+21.3.2022, 19:09:49 - INFO - Req from: Omer Eshkoli
+21.3.2022, 19:09:51 - INFO - Req!!!
+21.3.2022, 19:09:51 - INFO - Req from: Omer Eshkoli
+21.3.2022, 19:09:53 - INFO - Req!!!
+21.3.2022, 19:09:53 - INFO - Req from: Omer Eshkoli
+21.3.2022, 19:09:55 - INFO - Req!!!
+21.3.2022, 19:09:55 - INFO - Req from: Omer Eshkoli
+21.3.2022, 19:09:56 - INFO - Req!!!
+21.3.2022, 19:09:56 - INFO - Req from: Omer Eshkoli
+21.3.2022, 19:10:00 - INFO - Req!!!
+21.3.2022, 19:10:00 - INFO - Req from: Omer Eshkoli
+21.3.2022, 19:10:29 - INFO - Server is running on port: 3030
+21.3.2022, 19:10:31 - INFO - Req!!!
+21.3.2022, 19:10:34 - INFO - Req!!!
+21.3.2022, 19:10:35 - INFO - Req!!!
+21.3.2022, 19:10:37 - INFO - Req!!!
+21.3.2022, 19:10:40 - INFO - Req!!!
+21.3.2022, 19:10:43 - INFO - Req!!!
+21.3.2022, 19:10:46 - INFO - Req!!!
+21.3.2022, 19:10:49 - INFO - Req!!!
+21.3.2022, 19:11:00 - INFO - Req!!!
+21.3.2022, 19:11:07 - DEBUG - auth.service - login with username: Roy
+21.3.2022, 19:11:33 - INFO - Req!!!
+21.3.2022, 19:11:33 - INFO - Req from: Omer Eshkoli
+21.3.2022, 19:11:36 - INFO - Req!!!
+21.3.2022, 19:11:36 - INFO - Req from: Omer Eshkoli
+21.3.2022, 19:11:52 - INFO - Req!!!
+21.3.2022, 19:11:52 - INFO - Req from: Omer Eshkoli
+21.3.2022, 20:03:18 - INFO - Server is running on port: 3030
+21.3.2022, 20:39:07 - INFO - Server is running on port: 3030
+21.3.2022, 20:39:28 - INFO - Server is running on port: 3030
+21.3.2022, 21:56:15 - INFO - Server is running on port: 3030
+21.3.2022, 21:56:58 - INFO - Req!!!
+22/03/2022, 8:06:09 - INFO - Server is running on port: 3030
+22/03/2022, 8:07:31 - INFO - Req!!!
+22/03/2022, 8:08:43 - INFO - Req!!!
+22/03/2022, 8:08:47 - DEBUG - broadcast to all but user:  | a6mgTDrzKEg2xUtwAAAD
+22/03/2022, 8:08:47 - DEBUG - broadcast to all but user:  | a6mgTDrzKEg2xUtwAAAD
+22/03/2022, 8:08:47 - DEBUG - broadcast to all but user:  | a6mgTDrzKEg2xUtwAAAD
+22/03/2022, 8:10:24 - INFO - Req!!!
+22/03/2022, 8:10:32 - DEBUG - broadcast to all but user:  | -IEnwZNuZQuIXEeFAAAJ
+22/03/2022, 8:10:33 - DEBUG - broadcast to all but user:  | -IEnwZNuZQuIXEeFAAAJ
+22/03/2022, 8:10:33 - DEBUG - broadcast to all but user:  | -IEnwZNuZQuIXEeFAAAJ
+22/03/2022, 8:10:36 - DEBUG - broadcast to all but user:  | -IEnwZNuZQuIXEeFAAAJ
+22/03/2022, 8:10:36 - DEBUG - broadcast to all but user:  | -IEnwZNuZQuIXEeFAAAJ
+22/03/2022, 8:10:36 - DEBUG - broadcast to all but user:  | -IEnwZNuZQuIXEeFAAAJ
+22/03/2022, 8:11:21 - DEBUG - broadcast to all but user:  | uGB5kvVL1XdYRJIrAAAZ
+22/03/2022, 8:11:30 - DEBUG - broadcast to all but user:  | uGB5kvVL1XdYRJIrAAAZ
+22/03/2022, 8:11:31 - DEBUG - broadcast to all but user:  | uGB5kvVL1XdYRJIrAAAZ
+22/03/2022, 8:11:51 - DEBUG - broadcast to all but user:  | RNDaKhOTkbVsJD-SAAAf
+22/03/2022, 8:11:53 - DEBUG - broadcast to all but user:  | RNDaKhOTkbVsJD-SAAAf
+22/03/2022, 8:11:54 - DEBUG - broadcast to all but user:  | RNDaKhOTkbVsJD-SAAAf
+22/03/2022, 8:11:55 - DEBUG - broadcast to all but user:  | RNDaKhOTkbVsJD-SAAAf
+22/03/2022, 8:11:55 - DEBUG - broadcast to all but user:  | RNDaKhOTkbVsJD-SAAAf
+22/03/2022, 8:11:55 - DEBUG - broadcast to all but user:  | RNDaKhOTkbVsJD-SAAAf
+22/03/2022, 8:14:07 - DEBUG - broadcast to all but user:  | 5WeXl49bLYiy8mTPAAAk
+22/03/2022, 8:14:09 - DEBUG - broadcast to all but user:  | 5WeXl49bLYiy8mTPAAAk
+22/03/2022, 8:14:11 - DEBUG - broadcast to all but user:  | 5WeXl49bLYiy8mTPAAAk
+22/03/2022, 8:14:11 - DEBUG - broadcast to all but user:  | 5WeXl49bLYiy8mTPAAAk
+22/03/2022, 8:14:12 - DEBUG - broadcast to all but user:  | 5WeXl49bLYiy8mTPAAAk
+22/03/2022, 8:14:12 - DEBUG - broadcast to all but user:  | 5WeXl49bLYiy8mTPAAAk
+22/03/2022, 8:14:36 - INFO - Server is running on port: 3030
+22/03/2022, 8:15:09 - INFO - Req!!!
+22/03/2022, 8:15:09 - INFO - Req!!!
+22/03/2022, 8:15:11 - DEBUG - broadcast to all but user:  | LI-SvB2onydBYvMgAAAl
+22/03/2022, 8:15:12 - DEBUG - broadcast to all but user:  | LI-SvB2onydBYvMgAAAl
+22/03/2022, 8:15:12 - DEBUG - broadcast to all but user:  | LI-SvB2onydBYvMgAAAl
+22/03/2022, 8:15:18 - DEBUG - broadcast to all but user:  | LI-SvB2onydBYvMgAAAl
+22/03/2022, 8:15:19 - DEBUG - broadcast to all but user:  | LI-SvB2onydBYvMgAAAl
+22/03/2022, 8:15:20 - DEBUG - broadcast to all but user:  | LI-SvB2onydBYvMgAAAl
+22/03/2022, 8:15:21 - DEBUG - broadcast to all but user:  | LI-SvB2onydBYvMgAAAl
+22/03/2022, 8:15:21 - DEBUG - broadcast to all but user:  | LI-SvB2onydBYvMgAAAl
+22/03/2022, 8:15:21 - DEBUG - broadcast to all but user:  | LI-SvB2onydBYvMgAAAl
+22/03/2022, 8:15:21 - DEBUG - broadcast to all but user:  | LI-SvB2onydBYvMgAAAl
+22/03/2022, 8:34:30 - DEBUG - auth.service - login with username: or21321
+22/03/2022, 8:34:35 - INFO - Req!!!
+22/03/2022, 8:34:35 - INFO - Req from: Or Hadar
+22/03/2022, 8:35:10 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:35:10 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:35:11 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:35:33 - DEBUG - broadcast to all but user:  | LI-SvB2onydBYvMgAAAl
+22/03/2022, 8:35:34 - DEBUG - broadcast to all but user:  | LI-SvB2onydBYvMgAAAl
+22/03/2022, 8:35:34 - DEBUG - broadcast to all but user:  | LI-SvB2onydBYvMgAAAl
+22/03/2022, 8:35:45 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:35:45 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:35:46 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:36:02 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:36:02 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:36:02 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:36:26 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:36:26 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:36:26 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:36:41 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:36:41 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:36:41 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:36:48 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:36:48 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:36:49 - DEBUG - broadcast to all but user:  | TS1uvG8NabOvP0JNAAAp
+22/03/2022, 8:37:45 - INFO - Req!!!
+22/03/2022, 8:37:45 - INFO - Req from: Or Hadar
+22/03/2022, 8:37:45 - INFO - Req!!!
+22/03/2022, 8:37:45 - INFO - Req from: Or Hadar
+22/03/2022, 8:39:56 - DEBUG - broadcast to all but user:  | UC6zzsYArnPnnIbqAAA5
+22/03/2022, 8:39:56 - DEBUG - broadcast to all but user:  | UC6zzsYArnPnnIbqAAA5
+22/03/2022, 8:39:57 - DEBUG - broadcast to all but user:  | UC6zzsYArnPnnIbqAAA5
+22/03/2022, 8:40:01 - DEBUG - broadcast to all but user:  | UC6zzsYArnPnnIbqAAA5
+22/03/2022, 8:40:01 - DEBUG - broadcast to all but user:  | UC6zzsYArnPnnIbqAAA5
+22/03/2022, 8:40:01 - DEBUG - broadcast to all but user:  | UC6zzsYArnPnnIbqAAA5
+22/03/2022, 8:41:02 - DEBUG - broadcast to all but user:  | 9h6lHCmYGLfeg-9mAAA3
+22/03/2022, 8:41:03 - DEBUG - broadcast to all but user:  | 9h6lHCmYGLfeg-9mAAA3
+22/03/2022, 8:41:03 - DEBUG - broadcast to all but user:  | 9h6lHCmYGLfeg-9mAAA3
+22/03/2022, 8:41:07 - DEBUG - broadcast to all but user:  | 9h6lHCmYGLfeg-9mAAA3
+22/03/2022, 8:41:07 - DEBUG - broadcast to all but user:  | 9h6lHCmYGLfeg-9mAAA3
+22/03/2022, 8:41:07 - DEBUG - broadcast to all but user:  | 9h6lHCmYGLfeg-9mAAA3
+22/03/2022, 8:47:19 - INFO - Server is running on port: 3030
+22/03/2022, 8:47:32 - INFO - Req!!!
+22/03/2022, 8:47:32 - INFO - Req!!!
+22/03/2022, 8:47:35 - DEBUG - broadcast to all but user:  | _WFLzSgLp4yrfbGeAAAb
+22/03/2022, 8:47:36 - DEBUG - broadcast to all but user:  | _WFLzSgLp4yrfbGeAAAb
+22/03/2022, 8:47:36 - DEBUG - broadcast to all but user:  | _WFLzSgLp4yrfbGeAAAb
+22/03/2022, 8:47:37 - DEBUG - broadcast to all but user:  | _WFLzSgLp4yrfbGeAAAb
+22/03/2022, 8:47:37 - DEBUG - broadcast to all but user:  | _WFLzSgLp4yrfbGeAAAb
+22/03/2022, 8:47:37 - DEBUG - broadcast to all but user:  | _WFLzSgLp4yrfbGeAAAb
+22/03/2022, 9:00:32 - INFO - Server is running on port: 3030
+22/03/2022, 9:00:51 - INFO - Req!!!
+22/03/2022, 9:00:51 - INFO - Req!!!
+22/03/2022, 9:01:02 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:10 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:10 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:11 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:12 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:12 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:13 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:14 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:14 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:14 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:14 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:14 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:18 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:18 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:18 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:18 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:19 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:19 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:19 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:20 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:20 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:21 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:21 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:21 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:24 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:25 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:25 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:26 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:26 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:26 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:27 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:27 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:28 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:33 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:33 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:33 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:33 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:33 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:33 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:35 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:36 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:36 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:36 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:36 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:36 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:36 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:37 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:37 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:37 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:37 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:37 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:38 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:38 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:38 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:38 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:38 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:38 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:38 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:01:54 - DEBUG - broadcast to all but user:  | _ZD5Cf6mYPTC-j0LAAAD
+22/03/2022, 9:01:55 - DEBUG - broadcast to all but user:  | _ZD5Cf6mYPTC-j0LAAAD
+22/03/2022, 9:01:55 - DEBUG - broadcast to all but user:  | _ZD5Cf6mYPTC-j0LAAAD
+22/03/2022, 9:01:55 - DEBUG - broadcast to all but user:  | _ZD5Cf6mYPTC-j0LAAAD
+22/03/2022, 9:01:56 - DEBUG - broadcast to all but user:  | _ZD5Cf6mYPTC-j0LAAAD
+22/03/2022, 9:01:56 - DEBUG - broadcast to all but user:  | _ZD5Cf6mYPTC-j0LAAAD
+22/03/2022, 9:01:56 - DEBUG - broadcast to all but user:  | _ZD5Cf6mYPTC-j0LAAAD
+22/03/2022, 9:01:56 - DEBUG - broadcast to all but user:  | _ZD5Cf6mYPTC-j0LAAAD
+22/03/2022, 9:01:56 - DEBUG - broadcast to all but user:  | _ZD5Cf6mYPTC-j0LAAAD
+22/03/2022, 9:01:57 - DEBUG - broadcast to all but user:  | _ZD5Cf6mYPTC-j0LAAAD
+22/03/2022, 9:01:57 - DEBUG - broadcast to all but user:  | _ZD5Cf6mYPTC-j0LAAAD
+22/03/2022, 9:01:57 - DEBUG - broadcast to all but user:  | _ZD5Cf6mYPTC-j0LAAAD
+22/03/2022, 9:03:53 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:03:54 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:03:54 - DEBUG - broadcast to all but user:  | 4IGz_nFykX4JX-92AAAB
+22/03/2022, 9:05:41 - DEBUG - broadcast to all but user:  | FGfs_tQEDwyCbaMtAAAX
+22/03/2022, 9:05:42 - DEBUG - broadcast to all but user:  | FGfs_tQEDwyCbaMtAAAX
+22/03/2022, 9:05:43 - DEBUG - broadcast to all but user:  | FGfs_tQEDwyCbaMtAAAX
+22/03/2022, 9:05:44 - DEBUG - broadcast to all but user:  | FGfs_tQEDwyCbaMtAAAX
+22/03/2022, 9:05:44 - DEBUG - broadcast to all but user:  | FGfs_tQEDwyCbaMtAAAX
+22/03/2022, 9:05:44 - DEBUG - broadcast to all but user:  | FGfs_tQEDwyCbaMtAAAX
+22/03/2022, 9:05:49 - INFO - Req!!!
+22/03/2022, 9:05:50 - INFO - Req!!!
+22/03/2022, 9:05:52 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:05:54 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:05:54 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:06:17 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:06:18 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:06:23 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:06:24 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:06:24 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:31 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:31 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:32 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:32 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:32 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:33 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:33 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:34 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:35 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:35 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:36 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:36 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:38 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:38 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:39 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:39 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:39 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:39 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:39 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:07:39 - DEBUG - broadcast to all but user:  | u8h3oEGd0ZlDzKKYAAAZ
+22/03/2022, 9:08:28 - DEBUG - broadcast to all but user:  | GGGQ7DV50och3H2kAAAj
+22/03/2022, 9:08:29 - DEBUG - broadcast to all but user:  | GGGQ7DV50och3H2kAAAj
+22/03/2022, 9:08:34 - INFO - Req!!!
+22/03/2022, 9:08:35 - INFO - Req!!!
+22/03/2022, 9:08:36 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:37 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:37 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:38 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:38 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:38 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:38 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:39 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:39 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:39 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:40 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:41 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:41 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:41 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:42 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:42 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:42 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:43 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:43 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:43 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:43 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:43 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:44 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:44 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:44 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:44 - DEBUG - broadcast to all but user:  | hnsdApm9jvM0tmlUAAAl
+22/03/2022, 9:08:49 - INFO - Req!!!
+22/03/2022, 9:08:49 - INFO - Req!!!
+22/03/2022, 9:09:21 - DEBUG - broadcast to all but user:  | 60YUOBK50Moef_v-AAAp
+22/03/2022, 9:09:22 - DEBUG - broadcast to all but user:  | 60YUOBK50Moef_v-AAAp
+22/03/2022, 9:09:22 - DEBUG - broadcast to all but user:  | 60YUOBK50Moef_v-AAAp
+22/03/2022, 9:09:22 - DEBUG - broadcast to all but user:  | 60YUOBK50Moef_v-AAAp
+22/03/2022, 9:09:25 - INFO - Req!!!
+22/03/2022, 9:15:51 - INFO - Req!!!
+22/03/2022, 9:15:51 - INFO - Req!!!
+22/03/2022, 9:15:57 - DEBUG - broadcast to all but user:  | 4lEFgzYbZ_elxowXAAA5
+22/03/2022, 9:15:58 - DEBUG - broadcast to all but user:  | 4lEFgzYbZ_elxowXAAA5
+22/03/2022, 9:15:58 - DEBUG - broadcast to all but user:  | 4lEFgzYbZ_elxowXAAA5
+22/03/2022, 9:16:00 - DEBUG - broadcast to all but user:  | 4lEFgzYbZ_elxowXAAA5
+22/03/2022, 9:16:13 - INFO - Req!!!
+22/03/2022, 9:16:16 - INFO - Req!!!
+22/03/2022, 9:16:23 - INFO - Req!!!
+22/03/2022, 9:16:31 - DEBUG - broadcast to all but user:  | yKtsX5ebYjPFX_FKAAA_
+22/03/2022, 9:16:31 - DEBUG - broadcast to all but user:  | yKtsX5ebYjPFX_FKAAA_
+22/03/2022, 9:16:31 - DEBUG - broadcast to all but user:  | yKtsX5ebYjPFX_FKAAA_
+22/03/2022, 9:16:34 - DEBUG - broadcast to all but user:  | yKtsX5ebYjPFX_FKAAA_
+22/03/2022, 9:17:08 - INFO - Req!!!
+22/03/2022, 9:17:35 - DEBUG - broadcast to all but user:  | v6xm6vzS6hQwPPG6AABB
+22/03/2022, 9:17:36 - DEBUG - broadcast to all but user:  | v6xm6vzS6hQwPPG6AABB
+22/03/2022, 9:17:36 - DEBUG - broadcast to all but user:  | v6xm6vzS6hQwPPG6AABB
+22/03/2022, 9:17:37 - DEBUG - broadcast to all but user:  | v6xm6vzS6hQwPPG6AABB
+22/03/2022, 9:17:41 - INFO - Req!!!
+22/03/2022, 9:26:01 - INFO - Server is running on port: 3030
+22/03/2022, 9:26:14 - INFO - Req!!!
+22/03/2022, 9:26:15 - INFO - Req!!!
+22/03/2022, 9:26:18 - DEBUG - broadcast to all but user:  | ouV4HXvTMplt4yx7AAAB
+22/03/2022, 9:26:20 - DEBUG - broadcast to all but user:  | ouV4HXvTMplt4yx7AAAB
+22/03/2022, 9:26:20 - DEBUG - broadcast to all but user:  | ouV4HXvTMplt4yx7AAAB
+22/03/2022, 9:26:53 - INFO - Req!!!
+22/03/2022, 9:26:53 - INFO - Req!!!
+22/03/2022, 9:26:56 - DEBUG - broadcast to all but user:  | QDDqE5uVoUsXAFA4AAAJ
+22/03/2022, 9:26:56 - DEBUG - broadcast to all but user:  | QDDqE5uVoUsXAFA4AAAJ
+22/03/2022, 9:26:56 - DEBUG - broadcast to all but user:  | QDDqE5uVoUsXAFA4AAAJ
+22/03/2022, 9:26:56 - DEBUG - broadcast to all but user:  | QDDqE5uVoUsXAFA4AAAJ
+22/03/2022, 9:27:27 - INFO - Req!!!
+22/03/2022, 9:27:27 - INFO - Req!!!
+22/03/2022, 9:27:28 - INFO - Req!!!
+22/03/2022, 9:27:28 - INFO - Req!!!
+22/03/2022, 9:27:30 - INFO - Req!!!
+22/03/2022, 9:27:30 - INFO - Req!!!
+22/03/2022, 9:27:39 - INFO - Req!!!
+22/03/2022, 9:27:39 - INFO - Req!!!
+22/03/2022, 9:27:43 - DEBUG - broadcast to all but user:  | 0WuVefTmwa2By06OAAAN
+22/03/2022, 9:27:43 - DEBUG - broadcast to all but user:  | 0WuVefTmwa2By06OAAAN
+22/03/2022, 9:27:43 - DEBUG - broadcast to all but user:  | 0WuVefTmwa2By06OAAAN
+22/03/2022, 9:27:44 - DEBUG - broadcast to all but user:  | 0WuVefTmwa2By06OAAAN
+22/03/2022, 9:29:49 - INFO - Server is running on port: 3030
+22/03/2022, 9:30:03 - INFO - Req!!!
+22/03/2022, 9:30:07 - INFO - Req!!!
+22/03/2022, 9:30:09 - INFO - Req!!!
+22/03/2022, 9:30:11 - DEBUG - broadcast to all but user:  | V723PQwse1G6fI4GAAAH
+22/03/2022, 9:30:12 - DEBUG - broadcast to all but user:  | V723PQwse1G6fI4GAAAH
+22/03/2022, 9:30:12 - DEBUG - broadcast to all but user:  | V723PQwse1G6fI4GAAAH
+22/03/2022, 9:30:13 - DEBUG - broadcast to all but user:  | V723PQwse1G6fI4GAAAH
+22/03/2022, 9:31:08 - INFO - Req!!!
+22/03/2022, 9:31:09 - INFO - Req!!!
+22/03/2022, 9:31:19 - DEBUG - broadcast to all but user:  | GllvPJvVgljCON8HAAAb
+22/03/2022, 9:31:20 - DEBUG - broadcast to all but user:  | GllvPJvVgljCON8HAAAb
+22/03/2022, 9:31:20 - DEBUG - broadcast to all but user:  | GllvPJvVgljCON8HAAAb
+22/03/2022, 9:31:42 - INFO - Req!!!
+22/03/2022, 9:31:42 - INFO - Req!!!
+22/03/2022, 9:31:44 - DEBUG - broadcast to all but user:  | E4PorkIKhC_LTmzdAAAj
+22/03/2022, 9:31:45 - DEBUG - broadcast to all but user:  | E4PorkIKhC_LTmzdAAAj
+22/03/2022, 9:31:45 - DEBUG - broadcast to all but user:  | E4PorkIKhC_LTmzdAAAj
+22/03/2022, 9:31:45 - DEBUG - broadcast to all but user:  | E4PorkIKhC_LTmzdAAAj
+22/03/2022, 9:31:58 - INFO - Req!!!
+22/03/2022, 9:32:14 - INFO - Req!!!
+22/03/2022, 9:34:33 - INFO - Server is running on port: 3030
+22/03/2022, 9:34:42 - INFO - Req!!!
+22/03/2022, 9:34:43 - INFO - Req!!!
+22/03/2022, 9:34:45 - DEBUG - broadcast to all but user:  | tc5XPXiT467hZcNZAAAH
+22/03/2022, 9:34:45 - DEBUG - broadcast to all but user:  | tc5XPXiT467hZcNZAAAH
+22/03/2022, 9:34:45 - DEBUG - broadcast to all but user:  | tc5XPXiT467hZcNZAAAH
+22/03/2022, 9:34:46 - DEBUG - broadcast to all but user:  | tc5XPXiT467hZcNZAAAH
+22/03/2022, 9:34:50 - DEBUG - broadcast to all but user:  | tc5XPXiT467hZcNZAAAH
+22/03/2022, 9:34:50 - DEBUG - broadcast to all but user:  | tc5XPXiT467hZcNZAAAH
+22/03/2022, 9:34:50 - DEBUG - broadcast to all but user:  | tc5XPXiT467hZcNZAAAH
+22/03/2022, 9:34:51 - DEBUG - broadcast to all but user:  | tc5XPXiT467hZcNZAAAH
+22/03/2022, 9:35:38 - INFO - Server is running on port: 3030
+22/03/2022, 9:35:46 - INFO - Req!!!
+22/03/2022, 9:35:46 - INFO - Req!!!
+22/03/2022, 9:35:51 - DEBUG - broadcast to all but user:  | aN9woqbIvSHLBuzBAAAH
+22/03/2022, 9:35:51 - DEBUG - broadcast to all but user:  | aN9woqbIvSHLBuzBAAAH
+22/03/2022, 9:35:51 - DEBUG - broadcast to all but user:  | aN9woqbIvSHLBuzBAAAH
+22/03/2022, 9:35:52 - DEBUG - broadcast to all but user:  | aN9woqbIvSHLBuzBAAAH
+22/03/2022, 9:36:17 - INFO - Req!!!
+22/03/2022, 9:36:18 - INFO - Req!!!
+22/03/2022, 9:59:07 - DEBUG - broadcast to all but user:  | RHcbrTrU-ZQ0NecqAAAJ
+22/03/2022, 9:59:07 - DEBUG - broadcast to all but user:  | RHcbrTrU-ZQ0NecqAAAJ
+22/03/2022, 9:59:07 - DEBUG - broadcast to all but user:  | RHcbrTrU-ZQ0NecqAAAJ
+22/03/2022, 9:59:14 - DEBUG - broadcast to all but user:  | RHcbrTrU-ZQ0NecqAAAJ
+22/03/2022, 9:59:37 - DEBUG - broadcast to all but user:  | RHcbrTrU-ZQ0NecqAAAJ
+22/03/2022, 9:59:38 - DEBUG - broadcast to all but user:  | RHcbrTrU-ZQ0NecqAAAJ
+22/03/2022, 9:59:39 - DEBUG - broadcast to all but user:  | RHcbrTrU-ZQ0NecqAAAJ
+22/03/2022, 9:59:39 - DEBUG - broadcast to all but user:  | RHcbrTrU-ZQ0NecqAAAJ
+22/03/2022, 9:59:39 - DEBUG - broadcast to all but user:  | RHcbrTrU-ZQ0NecqAAAJ
+22/03/2022, 9:59:39 - DEBUG - broadcast to all but user:  | RHcbrTrU-ZQ0NecqAAAJ
+22/03/2022, 9:59:40 - DEBUG - broadcast to all but user:  | RHcbrTrU-ZQ0NecqAAAJ
+22/03/2022, 9:59:40 - DEBUG - broadcast to all but user:  | RHcbrTrU-ZQ0NecqAAAJ
+22/03/2022, 9:59:40 - DEBUG - broadcast to all but user:  | RHcbrTrU-ZQ0NecqAAAJ
+22/03/2022, 9:59:41 - DEBUG - broadcast to all but user:  | RHcbrTrU-ZQ0NecqAAAJ
+22/03/2022, 10:11:48 - INFO - Req!!!
+22/03/2022, 10:11:48 - INFO - Req!!!
+22/03/2022, 10:14:45 - INFO - Req!!!
+22/03/2022, 10:14:46 - INFO - Req!!!
+22/03/2022, 10:15:00 - DEBUG - auth.service - login with username: or21321
+22/03/2022, 10:15:08 - DEBUG - broadcast to all but user:  | umH52cITc3MEafT6AAAN
+22/03/2022, 10:15:08 - DEBUG - broadcast to all but user:  | umH52cITc3MEafT6AAAN
+22/03/2022, 10:15:08 - DEBUG - broadcast to all but user:  | umH52cITc3MEafT6AAAN
+22/03/2022, 10:15:08 - DEBUG - broadcast to all but user:  | umH52cITc3MEafT6AAAN
+22/03/2022, 10:15:37 - INFO - Req!!!
+22/03/2022, 10:15:37 - INFO - Req from: Or Hadar
+22/03/2022, 10:15:39 - DEBUG - broadcast to all but user:  | nrBSMoZ7jtcTgBe4AAAP
+22/03/2022, 10:15:39 - DEBUG - broadcast to all but user:  | nrBSMoZ7jtcTgBe4AAAP
+22/03/2022, 10:15:40 - DEBUG - broadcast to all but user:  | nrBSMoZ7jtcTgBe4AAAP
+22/03/2022, 10:15:40 - DEBUG - broadcast to all but user:  | nrBSMoZ7jtcTgBe4AAAP
+22/03/2022, 10:16:05 - INFO - Req!!!
+22/03/2022, 10:16:05 - INFO - Req from: Or Hadar
+22/03/2022, 10:16:07 - DEBUG - broadcast to all but user:  | xNHy5wLnO_xoIodHAAAR
+22/03/2022, 10:16:07 - DEBUG - broadcast to all but user:  | xNHy5wLnO_xoIodHAAAR
+22/03/2022, 10:16:07 - DEBUG - broadcast to all but user:  | xNHy5wLnO_xoIodHAAAR
+22/03/2022, 10:16:08 - DEBUG - broadcast to all but user:  | xNHy5wLnO_xoIodHAAAR
+22/03/2022, 10:16:31 - DEBUG - broadcast to all but user:  | xNHy5wLnO_xoIodHAAAR
+22/03/2022, 10:16:31 - DEBUG - broadcast to all but user:  | xNHy5wLnO_xoIodHAAAR
+22/03/2022, 10:16:31 - DEBUG - broadcast to all but user:  | xNHy5wLnO_xoIodHAAAR
+22/03/2022, 10:16:32 - DEBUG - broadcast to all but user:  | xNHy5wLnO_xoIodHAAAR
+22/03/2022, 10:16:50 - INFO - Req!!!
+22/03/2022, 10:16:50 - INFO - Req from: Or Hadar
+22/03/2022, 10:16:52 - DEBUG - broadcast to all but user:  | DYLhiCPTRGWxg1CvAAAT
+22/03/2022, 10:16:52 - DEBUG - broadcast to all but user:  | DYLhiCPTRGWxg1CvAAAT
+22/03/2022, 10:16:52 - DEBUG - broadcast to all but user:  | DYLhiCPTRGWxg1CvAAAT
+22/03/2022, 10:16:53 - DEBUG - broadcast to all but user:  | DYLhiCPTRGWxg1CvAAAT
+22/03/2022, 10:17:05 - INFO - Server is running on port: 3030
+22/03/2022, 10:17:09 - DEBUG - broadcast to all but user:  | WU-TTPz_H2Mb6ANCAAAB
+22/03/2022, 10:17:09 - DEBUG - broadcast to all but user:  | WU-TTPz_H2Mb6ANCAAAB
+22/03/2022, 10:17:09 - DEBUG - broadcast to all but user:  | WU-TTPz_H2Mb6ANCAAAB
+22/03/2022, 10:17:10 - DEBUG - broadcast to all but user:  | WU-TTPz_H2Mb6ANCAAAB
+22/03/2022, 10:17:37 - INFO - Req!!!
+22/03/2022, 10:17:39 - DEBUG - broadcast to all but user:  | 5xlkbWQDzbtG_XfsAAAD
+22/03/2022, 10:17:39 - DEBUG - broadcast to all but user:  | 5xlkbWQDzbtG_XfsAAAD
+22/03/2022, 10:17:39 - DEBUG - broadcast to all but user:  | 5xlkbWQDzbtG_XfsAAAD
+22/03/2022, 10:17:39 - DEBUG - broadcast to all but user:  | 5xlkbWQDzbtG_XfsAAAD
+22/03/2022, 10:17:39 - DEBUG - broadcast to all but user:  | 5xlkbWQDzbtG_XfsAAAD
+22/03/2022, 10:17:40 - DEBUG - broadcast to all but user:  | 5xlkbWQDzbtG_XfsAAAD
+22/03/2022, 10:17:40 - DEBUG - broadcast to all but user:  | 5xlkbWQDzbtG_XfsAAAD
+22/03/2022, 10:18:11 - INFO - Req!!!
+22/03/2022, 10:18:31 - INFO - Req!!!
+22/03/2022, 10:18:33 - DEBUG - broadcast to all but user:  | 0mCMjDdZdjWtPRRaAAAF
+22/03/2022, 10:18:33 - DEBUG - broadcast to all but user:  | 0mCMjDdZdjWtPRRaAAAF
+22/03/2022, 10:18:33 - DEBUG - broadcast to all but user:  | 0mCMjDdZdjWtPRRaAAAF
+22/03/2022, 10:18:34 - DEBUG - broadcast to all but user:  | 0mCMjDdZdjWtPRRaAAAF
+22/03/2022, 10:19:07 - DEBUG - auth.service - login with username: or21321
+22/03/2022, 10:19:11 - DEBUG - broadcast to all but user:  | 0mCMjDdZdjWtPRRaAAAF
+22/03/2022, 10:19:11 - DEBUG - broadcast to all but user:  | 0mCMjDdZdjWtPRRaAAAF
+22/03/2022, 10:19:11 - DEBUG - broadcast to all but user:  | 0mCMjDdZdjWtPRRaAAAF
+22/03/2022, 10:19:11 - DEBUG - broadcast to all but user:  | 0mCMjDdZdjWtPRRaAAAF
+22/03/2022, 10:19:11 - DEBUG - broadcast to all but user:  | 0mCMjDdZdjWtPRRaAAAF
+22/03/2022, 10:19:12 - DEBUG - broadcast to all but user:  | 0mCMjDdZdjWtPRRaAAAF
+22/03/2022, 10:19:45 - INFO - Req!!!
+22/03/2022, 10:19:45 - INFO - Req from: Or Hadar
+22/03/2022, 10:19:52 - INFO - Req!!!
+22/03/2022, 10:19:52 - INFO - Req from: Or Hadar
+22/03/2022, 10:19:54 - DEBUG - broadcast to all but user:  | xrc8FiWTUiYtLhgYAAAH
+22/03/2022, 10:19:54 - DEBUG - broadcast to all but user:  | xrc8FiWTUiYtLhgYAAAH
+22/03/2022, 10:19:55 - DEBUG - broadcast to all but user:  | xrc8FiWTUiYtLhgYAAAH
+22/03/2022, 10:19:55 - DEBUG - broadcast to all but user:  | xrc8FiWTUiYtLhgYAAAH
+22/03/2022, 10:20:03 - INFO - Req!!!
+22/03/2022, 10:20:03 - INFO - Req from: Or Hadar
+22/03/2022, 10:22:42 - INFO - Req!!!
+22/03/2022, 10:22:42 - INFO - Req from: Or Hadar
+22/03/2022, 10:22:55 - DEBUG - auth.service - login with username: or21321
+22/03/2022, 10:23:01 - DEBUG - broadcast to all but user:  | -PZXWdhc9ZCcf8zmAAAJ
+22/03/2022, 10:23:02 - DEBUG - broadcast to all but user:  | -PZXWdhc9ZCcf8zmAAAJ
+22/03/2022, 10:23:02 - DEBUG - broadcast to all but user:  | -PZXWdhc9ZCcf8zmAAAJ
+22/03/2022, 10:23:03 - DEBUG - broadcast to all but user:  | -PZXWdhc9ZCcf8zmAAAJ
+22/03/2022, 10:23:27 - INFO - Req!!!
+22/03/2022, 10:23:27 - INFO - Req from: Or Hadar
+22/03/2022, 10:27:48 - DEBUG - auth.service - login with username: or21321
+22/03/2022, 10:28:15 - INFO - Req!!!
+22/03/2022, 10:28:15 - INFO - Req from: Or Hadar
+22/03/2022, 10:28:25 - DEBUG - auth.service - login with username: or21321
+22/03/2022, 10:29:31 - INFO - Req!!!
+22/03/2022, 10:29:31 - INFO - Req from: Or Hadar
+22/03/2022, 10:29:44 - DEBUG - auth.service - login with username: or21321
+22/03/2022, 10:30:21 - INFO - Req!!!
+22/03/2022, 10:30:21 - INFO - Req from: Or Hadar
+22/03/2022, 10:30:48 - DEBUG - auth.service - login with username: or21321
+22/03/2022, 10:30:54 - DEBUG - broadcast to all but user:  | au3XqjT06C4buTj7AAAP
+22/03/2022, 10:30:54 - DEBUG - broadcast to all but user:  | au3XqjT06C4buTj7AAAP
+22/03/2022, 10:30:54 - DEBUG - broadcast to all but user:  | au3XqjT06C4buTj7AAAP
+22/03/2022, 10:30:55 - DEBUG - broadcast to all but user:  | au3XqjT06C4buTj7AAAP
+22/03/2022, 10:31:38 - INFO - Req!!!
+22/03/2022, 10:31:38 - INFO - Req from: Or Hadar
+22/03/2022, 10:31:47 - INFO - Req!!!
+22/03/2022, 10:31:47 - INFO - Req from: Or Hadar
+22/03/2022, 10:31:58 - INFO - Req!!!
+22/03/2022, 10:31:58 - INFO - Req from: Or Hadar
+22/03/2022, 10:32:01 - DEBUG - broadcast to all but user:  | d27Gb_hQIx1MvgK-AAAd
+22/03/2022, 10:32:01 - DEBUG - broadcast to all but user:  | d27Gb_hQIx1MvgK-AAAd
+22/03/2022, 10:32:01 - DEBUG - broadcast to all but user:  | d27Gb_hQIx1MvgK-AAAd
+22/03/2022, 10:32:02 - DEBUG - broadcast to all but user:  | d27Gb_hQIx1MvgK-AAAd
+22/03/2022, 10:32:31 - INFO - Req!!!
+22/03/2022, 10:32:31 - INFO - Req from: Or Hadar
+22/03/2022, 10:32:35 - INFO - Req!!!
+22/03/2022, 10:32:35 - INFO - Req from: Or Hadar
+22/03/2022, 10:32:45 - DEBUG - broadcast to all but user:  | xzFyIrP2Rv3_qUaOAAAn
+22/03/2022, 10:32:45 - DEBUG - broadcast to all but user:  | xzFyIrP2Rv3_qUaOAAAn
+22/03/2022, 10:32:46 - DEBUG - broadcast to all but user:  | xzFyIrP2Rv3_qUaOAAAn
+22/03/2022, 10:32:46 - DEBUG - broadcast to all but user:  | xzFyIrP2Rv3_qUaOAAAn
+22/03/2022, 10:33:00 - DEBUG - auth.service - login with username: or21321
+22/03/2022, 10:33:08 - DEBUG - broadcast to all but user:  | xzFyIrP2Rv3_qUaOAAAn
+22/03/2022, 10:33:08 - DEBUG - broadcast to all but user:  | xzFyIrP2Rv3_qUaOAAAn
+22/03/2022, 10:33:09 - DEBUG - broadcast to all but user:  | xzFyIrP2Rv3_qUaOAAAn
+22/03/2022, 10:33:09 - DEBUG - broadcast to all but user:  | xzFyIrP2Rv3_qUaOAAAn
+22/03/2022, 10:33:09 - DEBUG - broadcast to all but user:  | xzFyIrP2Rv3_qUaOAAAn
+22/03/2022, 10:33:09 - DEBUG - broadcast to all but user:  | xzFyIrP2Rv3_qUaOAAAn
+22/03/2022, 10:33:22 - INFO - Req!!!
+22/03/2022, 10:33:22 - INFO - Req from: Or Hadar
+22/03/2022, 10:33:26 - INFO - Req!!!
+22/03/2022, 10:33:26 - INFO - Req from: Or Hadar
+22/03/2022, 11:02:02 - DEBUG - broadcast to all but user:  | fi_w-XrcaL4QtH79AAAx
+22/03/2022, 11:02:02 - DEBUG - broadcast to all but user:  | fi_w-XrcaL4QtH79AAAx
+22/03/2022, 11:02:02 - DEBUG - broadcast to all but user:  | fi_w-XrcaL4QtH79AAAx
+22/03/2022, 11:02:02 - DEBUG - broadcast to all but user:  | fi_w-XrcaL4QtH79AAAx
+22/03/2022, 11:02:02 - DEBUG - broadcast to all but user:  | fi_w-XrcaL4QtH79AAAx
+22/03/2022, 11:02:03 - DEBUG - broadcast to all but user:  | fi_w-XrcaL4QtH79AAAx
+22/03/2022, 11:02:03 - DEBUG - broadcast to all but user:  | fi_w-XrcaL4QtH79AAAx
+22/03/2022, 11:02:03 - DEBUG - broadcast to all but user:  | fi_w-XrcaL4QtH79AAAx
+22/03/2022, 11:02:03 - DEBUG - broadcast to all but user:  | fi_w-XrcaL4QtH79AAAx
+22/03/2022, 11:02:03 - DEBUG - broadcast to all but user:  | fi_w-XrcaL4QtH79AAAx
+22/03/2022, 11:02:03 - DEBUG - broadcast to all but user:  | fi_w-XrcaL4QtH79AAAx
+22/03/2022, 11:21:16 - INFO - Req!!!
+22/03/2022, 11:21:16 - INFO - Req from: Or Hadar
+22/03/2022, 11:21:30 - DEBUG - auth.service - login with username: or21321
+22/03/2022, 11:21:32 - DEBUG - broadcast to all but user:  | TjCxfpd3pq9QxnYvAAA3
+22/03/2022, 11:21:32 - DEBUG - broadcast to all but user:  | TjCxfpd3pq9QxnYvAAA3
+22/03/2022, 11:21:33 - DEBUG - broadcast to all but user:  | TjCxfpd3pq9QxnYvAAA3
+22/03/2022, 11:21:33 - DEBUG - broadcast to all but user:  | TjCxfpd3pq9QxnYvAAA3

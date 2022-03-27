@@ -20,7 +20,6 @@ export const reviewStore = {
     },
     actions: {
         async addReview(context, { review }) {
-            console.log(review)
             try {
                 review = await reviewService.add(review)
                 context.commit({ type: 'addReview', review })
@@ -30,12 +29,11 @@ export const reviewStore = {
                 throw err
             }
         },
-        async loadReviews({commit}, {id}) {
+        async loadReviews({commit}, { filterBy }) {
             try {
-                console.log('store id', id)
-                const reviews = await reviewService.query(id);
+                const reviews = await reviewService.query(filterBy);
                 commit({ type: 'setReviews', reviews })
-
+                return reviews
                 }
                  catch (err) {
                 console.log('reviewStore: Error in loadReviews', err)
